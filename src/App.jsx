@@ -93,9 +93,7 @@ export default function App() {
               {/* Auth routes */}
               <Route
                 path="/profile"
-                element={
-                  user ? <ProfilePage user={user} /> : <Navigate to="/auth" replace />
-                }
+                element={<ProfilePage /> }
               />
 
               <Route
