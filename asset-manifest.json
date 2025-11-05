@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Movie-Review_Platform/static/css/main.c8468073.css",
-    "main.js": "/Movie-Review_Platform/static/js/main.7de175ed.js",
+    "main.js": "/Movie-Review_Platform/static/js/main.e3b2b6fa.js",
     "static/media/logo.png": "/Movie-Review_Platform/static/media/logo.6abf4a89dbe894c56a57.png",
     "index.html": "/Movie-Review_Platform/index.html",
     "main.c8468073.css.map": "/Movie-Review_Platform/static/css/main.c8468073.css.map",
-    "main.7de175ed.js.map": "/Movie-Review_Platform/static/js/main.7de175ed.js.map"
+    "main.e3b2b6fa.js.map": "/Movie-Review_Platform/static/js/main.e3b2b6fa.js.map"
   },
   "entrypoints": [
     "static/css/main.c8468073.css",
-    "static/js/main.7de175ed.js"
+    "static/js/main.e3b2b6fa.js"
   ]
 }
