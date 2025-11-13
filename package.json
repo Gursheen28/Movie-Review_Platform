@@ -2,7 +2,7 @@
   "name": "movie-review-platform",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://harman0817.github.io/CineCritique/",
+  "homepage": "https://github.com/Harman0817/CineCritique.git",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@reduxjs/toolkit": "^1.9.3",
