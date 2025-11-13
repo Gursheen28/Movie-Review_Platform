@@ -105,7 +105,7 @@ export default function App() {
         </div>
 
         <footer className="text-center py-6 border-t border-gray-800 text-gray-500 text-sm mt-auto">
-          © {new Date().getFullYear()} | Built by Gursheen-Kaur
+          © {new Date().getFullYear()} | Built by Harman-Singh
         </footer>
       </div>
     </Router>
