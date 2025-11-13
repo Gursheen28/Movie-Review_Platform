@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Movie-Review_Platform/static/css/main.c8468073.css",
-    "main.js": "/Movie-Review_Platform/static/js/main.e3b2b6fa.js",
-    "static/media/logo.png": "/Movie-Review_Platform/static/media/logo.6abf4a89dbe894c56a57.png",
-    "index.html": "/Movie-Review_Platform/index.html",
-    "main.c8468073.css.map": "/Movie-Review_Platform/static/css/main.c8468073.css.map",
-    "main.e3b2b6fa.js.map": "/Movie-Review_Platform/static/js/main.e3b2b6fa.js.map"
+    "main.css": "/CineCritique/static/css/main.c8468073.css",
+    "main.js": "/CineCritique/static/js/main.44e3f57c.js",
+    "static/media/logo.png": "/CineCritique/static/media/logo.6abf4a89dbe894c56a57.png",
+    "index.html": "/CineCritique/index.html",
+    "main.c8468073.css.map": "/CineCritique/static/css/main.c8468073.css.map",
+    "main.44e3f57c.js.map": "/CineCritique/static/js/main.44e3f57c.js.map"
   },
   "entrypoints": [
     "static/css/main.c8468073.css",
-    "static/js/main.e3b2b6fa.js"
+    "static/js/main.44e3f57c.js"
   ]
 }
